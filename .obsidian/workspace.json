@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "47c10df397e4844c",
+    "type": "split",
+    "children": [
+      {
+        "id": "712f13c4d8dcd500",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154e20d8f7bdcff1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf38b50476a856f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f43fb70118751ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae5ebf2ecb2411ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6fb2d2dbe7742d2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f32ddcde98d237a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "794ce16b26d61e63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c645a82dba5db95b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2996f185679a037",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15f00562b0626720",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e5dd61a644e861f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MBA/Node/Quiz 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Quiz 2"
+            }
+          },
+          {
+            "id": "eab59af2d261ed2e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efd508fc31155e50",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MBA/Node/Quiz 2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Quiz 2"
+            }
+          },
+          {
+            "id": "b2f008104408ac07",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "154e20d8f7bdcff1",
+  "lastOpenFiles": [
+    "MBA/05 - Soft Skills/Quiz 2.md",
+    "MBA/05 - Soft Skills/Quis 1.md",
+    "Portifoleo/Desenhos/visao-geral.md",
+    "MBA/05 - Soft Skills",
+    "Portifoleo/Desenhos/tarefas.md",
+    "Anotações linux/config do VScode organizado.md",
+    "Portifoleo/Desenhos",
+    "Anotações linux/Rock Linux 9.0.md",
+    "README.md",
+    "Portifoleo",
+    "MBA/03 - React/Quiz 5 - Dev Store.md",
+    "MBA/02 - Node/Quiz 5 - Nest.md",
+    "MBA/02 - Node/Quiz 4 - DDD.md",
+    "MBA/02 - Node/Quiz 3 - SOLID.md",
+    "MBA/03 - React/Quiz 4 - pizza shop.md",
+    "MBA/02 - Node/+ Marketplace API.md",
+    "MBA/03 - React/+ Marketplace.md",
+    "MBA/01 - Start/+ Member-club.md",
+    "MBA/02 - Node/Quiz 2 - gym.md",
+    "MBA/02 - Node/Quiz 1 - streaming.md",
+    "MBA/01 - Start/Iniciando o HTML e CSS.md",
+    "MBA/03 - React/Quiz 1 - Feed.md",
+    "MBA/03 - React/Quiz 2 - Timer.md",
+    "MBA/03 - React/Quiz 3 - DT money.md",
+    "MBA/02 - Node",
+    "MBA/03 - React",
+    "MBA/01 - Start/Quiz 2.md",
+    "MBA/01 - Start",
+    "MBA/01 - Start/Quiz 6.md",
+    "MBA/01 - Start/Quiz 5.md",
+    "MBA/01 - Start/Quiz 4.md",
+    "MBA/01 - Start/Quiz 3.md",
+    "MDA/Untitled",
+    "Anotações linux"
+  ]
+}

@@ -11,10 +11,14 @@
             "id": "154e20d8f7bdcff1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MBA/05 - Soft Skills/Quiz 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Quiz 3"
             }
           }
         ]
@@ -185,8 +189,9 @@
   },
   "active": "154e20d8f7bdcff1",
   "lastOpenFiles": [
+    "MBA/05 - Soft Skills/Quiz 1.md",
     "MBA/05 - Soft Skills/Quiz 2.md",
-    "MBA/05 - Soft Skills/Quis 1.md",
+    "MBA/05 - Soft Skills/Quiz 3.md",
     "Portifoleo/Desenhos/visao-geral.md",
     "MBA/05 - Soft Skills",
     "Portifoleo/Desenhos/tarefas.md",
@@ -216,7 +221,6 @@
     "MBA/01 - Start/Quiz 6.md",
     "MBA/01 - Start/Quiz 5.md",
     "MBA/01 - Start/Quiz 4.md",
-    "MBA/01 - Start/Quiz 3.md",
     "MDA/Untitled",
     "Anotações linux"
   ]
